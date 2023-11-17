@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tejas8139
-- 👀 I’m interested in backend developement
-- 🌱 I’m currently learning c# .net
+
 - 📫 How to reach me ...
 - tejasrajankar2023@gmail.com
 - 
